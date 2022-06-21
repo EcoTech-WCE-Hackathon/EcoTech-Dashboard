@@ -2,6 +2,10 @@
 
 ## Welcome to the Dashboard Repo for EcoTech
 
+#### This dashboard can be accessed at : [https://eco-tech.cf](https://eco-tech.cf)
+
+##### Creds- Username: admin-1 Password: admin-1-password
+
 #### EcoTech is a mobile app for reporting E-Waste effeciently and thereby reducing the damage to the environment cauesd by the E-Waste
 
 #### Ecotech is based on a business model which makes it sustainable both for the earth and money wise
